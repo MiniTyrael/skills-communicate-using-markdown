@@ -8,3 +8,7 @@
 ``` lua
 local var = 10
 ```
+
+- [x] Find Hamfist
+- [X] Throw him in the pond
+- [ ] Watch him drown
